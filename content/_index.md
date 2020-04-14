@@ -1,22 +1,21 @@
 ---
 title: Home
 sections:
-  - type: intro
-    template: intro
-    title: Intro
-    section_id: intro
-    component: intro.html
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Learn More
-        url: /about
+- type: intro
+  template: intro
+  title: Intro
+  section_id: intro
+  component: intro.html
+  content: Double revenue—without increasing marketing spend. How? By using Power
+    to your advantage. Power Growth Group specializes in helping e-commerce businesses
+    with less than $150M in revenue—double revenue in as little as two years by applying
+    timeless Merchandising for Power tactics.
+  actions:
+  - label: Learn More
+    url: www.merchandisingforpower.com
+layout: home
 menu:
   main:
-    name: Home
     weight: 1
-layout: home
+
 ---

@@ -2,7 +2,7 @@
 title: Merchandising for Power Blog
 baseURL: "/"
 params:
-  layout_style: grid
+  layout_style: list
   palette: black
   header:
     title: blog.MerchandisingForPower

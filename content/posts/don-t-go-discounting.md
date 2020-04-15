@@ -3,7 +3,7 @@ content_img_path = "/images/Retail Discounting.jpg"
 date = 2020-04-14T14:00:00Z
 excerpt = "If you aren't a discounter, don't become one in a recession. Once you go promotional, there is no turning back, you are a promotional brand. That's why rule number one of resilient merchandising is DGD—*don't go discounting*. "
 layout = "post"
-subtitle = "The temptation to discount in a recession will stop your business cold. Instead try a few Power Growth recommendations."
+subtitle = "The temptation to discount in a recession will stop your business cold. Instead ensure you have quality offerings at low-mid price points."
 thumb_img_path = "/images/Retail Discounting.jpg"
 title = "Don't Go Discounting"
 

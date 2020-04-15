@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blog.Merchandising for Power
 sections:
 - type: intro
   template: intro

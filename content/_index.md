@@ -14,8 +14,5 @@ sections:
   - label: Learn More
     url: www.merchandisingforpower.com
 layout: home
-menu:
-  main:
-    weight: 1
 
 ---

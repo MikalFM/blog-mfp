@@ -22,3 +22,11 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - url: https://theproductcoach.typeform.com/to/p1fcTi
+    name: Schedule Call
+    weight: 2
+  - url: https://www.merchandisingforpower.com
+    name: Home
+    weight: 1

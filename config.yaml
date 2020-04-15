@@ -11,7 +11,7 @@ params:
   footer:
     content: "&copy; Power Growth Group. All rights reserved."
     links:
-    - text: Request Consultation
+    - text: Request Call
       url: https://theproductcoach.typeform.com/to/p1fcTi
       new_window: true
     - text: Power Growth Group
